@@ -1,4 +1,4 @@
-# mission
+# Basic Mission - SiM-K
 
 ## Project setup
 ```
